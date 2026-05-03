@@ -1,9 +1,5 @@
 # Nyoman Dimas Wira Bakti
 
-Seorang mahasiswa D4 Teknologi Rekayasa Perangkat Lunak angkatan 2025 di Universitas Gadjah Mada. Memiliki ketertarikan dalam merekayasa perangkat lunak dan membangun produk digital. Aku memiliki prinsip untuk selalu mempelajari konsep teknologi dari akarnya, memastikan pemahaman fundamental yang kuat sebelum menerapkan implementasi tingkat lanjut. 
-
-Aku mengutamakan produktivitas dan kualitas pengerjaan proyek, serta selalu terbuka untuk mempelajari bahasa pemrograman atau teknologi baru secara mendalam dan cepat.
-
 ## 👨‍💻 Fokus dan Kemampuan Utama
 
 Dalam pengembangan *website*, aku terbiasa bekerja dalam lingkungan kolaboratif menggunakan **Git**. Praktik pengerjaanku melibatkan *slicing UI* yang presisi menjadi komponen interaktif, didukung oleh pemahaman kuat terhadap **Object-Oriented Programming (OOP)**, struktur data, dan algoritma. Aku menguasai implementasi *front-end* dari tingkat dasar (HTML5/CSS3/JavaScript) hingga penggunaan *framework* modern (React, NextJS, dan TailwindCSS).
