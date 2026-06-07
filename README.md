@@ -10,14 +10,14 @@ Dalam pengembangan *website*, aku terbiasa bekerja dalam lingkungan kolaboratif 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 **Back-End, Database & DevOps:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-## 📌 Pengalaman Proyek & Kolaborasi Website
-
-* **Tech Enthusiast Day (TED) 2025 (Panitia Staff Divisi IT):** Bertanggung jawab pada pengerjaan *front-end website* acara. Menerjemahkan desain menjadi baris kode (*slicing UI*) untuk membuat halaman dinamis, termasuk pembuatan logika dan antarmuka untuk *spin wheel*, *timer*, dan *stopwatch*.
-* **KOMATIK UGM (Staff Software Research and Development):** Anggota UKM Komatik UGM yang nantinya akan membangun project software.
-* **Google Developer Group on Campus (GDGoC) UGM (Hacker / Back-End):** Terbiasa bekerja dalam lingkungan tim dengan alur kerja Git yang terstruktur untuk nantinya membangun solusi pada Google Solution Challenge 2026.
-* **Sertifikasi Keahlian:** memiliki "Sertifikat Kelas Panduan Awal Menjadi Fullstack Web Developer" dan "Mini Hackathon Certificate of Achievement".
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ## 📫 Hubungi Aku
 
