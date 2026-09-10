@@ -1,9 +1,3 @@
-# Nyoman Dimas Wira Bakti
-
-## 👨‍💻 Fokus dan Kemampuan Utama
-
-Dalam pengembangan *website*, aku terbiasa bekerja dalam lingkungan kolaboratif menggunakan **Git**. Praktik pengerjaanku melibatkan *slicing UI* yang presisi menjadi komponen interaktif, didukung oleh pemahaman kuat terhadap **Object-Oriented Programming (OOP)**, struktur data, dan algoritma. Aku menguasai implementasi *front-end* dari tingkat dasar (HTML5/CSS3/JavaScript) hingga penggunaan *framework* modern (React, NextJS, dan TailwindCSS).
-
 ## 🛠️ Tech Stack & Tools
 
 **Front-End Development:**
@@ -19,7 +13,6 @@ Dalam pengembangan *website*, aku terbiasa bekerja dalam lingkungan kolaboratif 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-## 📫 Hubungi Aku
 
 - **LinkedIn:** [nyoman-dimas-wira-bakti-8a5b39317](https://www.linkedin.com/in/nyoman-dimas-wira-bakti-8a5b39317)
 - **Instagram:** [@mngdms_22](https://www.instagram.com/mngdms_22/)
